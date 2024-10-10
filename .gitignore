@@ -1,6 +1,7 @@
-*.md
 # Compiled class files
 *.class
+
+*.md
 
 # Log files
 *.log
